@@ -44,7 +44,7 @@ function App() {
   return (
     <>
     {/* <Router> */}
-      <Navbar title="TextUtils" aboutText="About" mode={mode} toggleMode={toggleMode}/>
+      <Navbar title="TextPlay" aboutText="About" mode={mode} toggleMode={toggleMode}/>
       <Alert alert={alert}/>
       {/* <Navbar /> */}
       {/* default props workss here */}
